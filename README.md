@@ -1,14 +1,6 @@
-# Verifiable Credentials Specification Relationship Map
-diagrams and documentation on the relationship of verfiable credential specifications.
+# Verifiable Credentials Specification Map
+This project as of v1.1.1 has been donated to the Decentralized Identity Foundation and as such has been migrated to a new github project located at:
+https://github.com/decentralized-identity/vc-spec-map
 
-The current release contains some of the most core specifications and their related specs in a diagram.
-It does not yet address some of the items especially under DIF work groups for secure data storage, SIOP, Sidetree etc.
+Open issues were migrated and the tip of master was copied into the new repository. Any versions prior to v1.1.1 can be found in this project releases all releases from v1.1.1 and greater should be found at the new project home.
 
-There are likely all sorts of things missed but for anyone trying to get a hanlde on the space using this diagram and working through it will provide a significant leg up and help mitigate some confusion.
-
-Corrections welcome. This is a work in progress.
-
-Current release contains a draw.io diagram that will open freely in a browser and can even be edited. It also contains the primary diagram output as a png.
-
-## Releases
-The [Release Page](https://github.com/manicprogrammer/vc-spec-rel/releases) contains the current and past releases.
